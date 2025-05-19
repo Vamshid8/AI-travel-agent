@@ -8,7 +8,4 @@ Hotel and accommodation suggestions
 Detailed day-by-day itineraries
 User-friendly web interface
 Real-time travel planning
-Setup
-Create a virtual environment:
-python -m venv .venv
-Activate the virtual environment:
+
